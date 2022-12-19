@@ -20,8 +20,6 @@ This is modification line 01.1 for branch 01
 
 This is !PIKACHU! line for work continuation modelling
 
-This is modification line 01.1 for branch 01 
-
 =	=	=	=	=	=	=	=
 
 This is modification !NYASHKA! line when my brain is explosing
