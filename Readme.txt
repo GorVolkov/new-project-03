@@ -13,3 +13,5 @@ This is trash
 = = = = = = = =
 
 This is modification line created on remote repository new branch (branch-03)
+
+This is modification line created on local repository on branch-03
