@@ -24,3 +24,6 @@ This is !PIKACHU! line for work continuation modelling
 
 This is modification !NYASHKA! line when my brain is explosing
 
+Line for stashing 01
+
+
