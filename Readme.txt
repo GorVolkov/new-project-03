@@ -26,6 +26,10 @@ This is modification !NYASHKA! line when my brain is explosing
 
 Line for stashing 01
 
+<<<<<<< Updated upstream
 Line for stashing 01.2
+=======
+Line for stashing 01.1
+>>>>>>> Stashed changes
 
 
